@@ -1,0 +1,13 @@
+{
+  "appname": "toner-here",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "DA358135-10DA-4F8E-9D7D-F7278C06A6C6",
+  "buyerid": "toner-buyer",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
